@@ -1,0 +1,11 @@
+platform :ios, '8.0'
+
+use_frameworks!
+
+target "Swift中的映射" do
+
+pod 'ObjectMapper', '~> 1.3'
+pod 'Alamofire', '~> 3.4'
+pod 'SwiftyJSON'
+
+end
